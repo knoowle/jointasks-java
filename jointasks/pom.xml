@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>jointasks</name>
-	<url>http://maven.apache.org</url>
+	<url>http://www.jointasks.com</url>
 
 	<properties>
 		<junit.version>4.11</junit.version>
