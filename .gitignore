@@ -22,6 +22,8 @@ target
 .idea
 *.iml
 
+*nb*
+
 
 # External tool builders
 .externalToolBuilders/
